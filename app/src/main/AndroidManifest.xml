@@ -1,7 +1,10 @@
+
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
 
     <application
         android:allowBackup="false"
+        android:icon="@drawable/ic_launcher"
+        android:roundIcon="@drawable/ic_launcher"
         android:label="ClipBox Close Ad"
         android:theme="@android:style/Theme.Material.Light.NoActionBar">
 
