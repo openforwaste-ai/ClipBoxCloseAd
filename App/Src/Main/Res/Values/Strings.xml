@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ClipBox Close Ad</string>
+    <string name="service_description">Detects accessible close buttons near the top-right of the screen and clicks them when enabled.</string>
+</resources>
